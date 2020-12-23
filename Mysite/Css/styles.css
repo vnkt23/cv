@@ -1,0 +1,34 @@
+body{
+  text-align: center;
+  background-color: lightgrey;
+  font-family: 'Merriweather', serif;
+font-size: 2em;
+}
+h1{
+ color: #66BFBF;
+   font-family: 'Sacramento', cursive;
+ font-size: 90px;
+}
+ h2{
+color: #66BFBF;
+font-family: 'Montserrat', sans-serif;
+}
+h3{
+color: #11999E;
+font-family: 'Montserrat', sans-serif;
+}
+.top-container {
+ background-color: #E4F9F5;
+}
+
+.middle-container {
+
+} 
+.bottom-container {
+
+}  
+img{
+
+ border-radius: 50%;
+}
+
